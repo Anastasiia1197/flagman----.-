@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://poverka-gid.ru/sitemap.xml
+Sitemap: https://драйв-моторс.рф/sitemap.xml
